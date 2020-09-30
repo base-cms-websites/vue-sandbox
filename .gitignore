@@ -1,13 +1,22 @@
+# Dependency directories
 .DS_Store
 node_modules
-/dist
 
+
+.bash_history
+.node-gyp
+
+# Build assets
+**/dist/
 
 # local env files
+.env
 .env.local
 .env.*.local
 
 # Log files
+logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -21,3 +30,15 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# vuepress build output
+.vuepress/dist
