@@ -1,4 +1,5 @@
-# vue-2
+# vue-2-storybook
+Sandbox project for testing Vue2 and Storybook
 
 ## Project setup
 ```
@@ -18,6 +19,11 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### Runs Storybook
+```
+yarn storybook
 ```
 
 ### Customize configuration

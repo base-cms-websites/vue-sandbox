@@ -1,4 +1,5 @@
 # vue-sandbox
+Sandbox for testing Vue3
 
 ## Project setup
 ```

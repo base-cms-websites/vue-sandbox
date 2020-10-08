@@ -10,5 +10,7 @@ Sandbox for vue testing
 * vue-2
   - Utilizes Vue2 and custom features
     - Babel, Eslint + Prettier, router, Sass/SCSS dart-sass
-
+* vue-2-storybook
+  - Same as vue-2 setup
+  - Plus Storybook
 
