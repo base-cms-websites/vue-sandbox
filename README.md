@@ -27,26 +27,30 @@ vue ui
 
 ## Folders
 
-* vue-3
-  - Utilizes Vue3 and the base @vue/cli setup
-* hello-world
-  - Utilizes Vue2's basic ```$ vue create hello-world``` project and default features (Babel + Eslint)
-* vue-2
-  - Utilizes Vue2, Vue CLI, and custom features
-    - Babel, Eslint + Prettier, router, Sass/SCSS dart-sass
-* vue-2-storybook
-  - Same as vue-2 setup
-  - Plus Storybook
-* vue-2-vuesax-nuxt
-  - Utilizes Vue2
-  - Nuxt.js
-    - Language: JS
-    - UI Framework: Vuesax
-    - Modules: n/a
-    - Linting: ESLint, Prettier
-    - Testing: Jest
-    - Rendering: Universal (SSR / SSG)
-    - Deployment: Server (Node.js hosting)
-    - Development Tools: jsconfig.json, Dependabot
-    - Continuous Integration: Github Actions
-    - Version Control System: Git
+### vue-3
+- Utilizes Vue3 and the base @vue/cli setup
+
+### hello-world
+- Utilizes Vue2's basic ```$ vue create hello-world``` project and default features (Babel + Eslint)
+
+### vue-2
+- Utilizes Vue2, Vue CLI, and custom features
+  - Babel, Eslint + Prettier, router, Sass/SCSS dart-sass
+
+### vue-2-storybook
+- Same as vue-2 setup
+- Plus Storybook
+
+### vue-2-vuesax-nuxt
+- Utilizes Vue2
+- Nuxt.js
+  - Language: JS
+  - UI Framework: Vuesax
+  - Modules: n/a
+  - Linting: ESLint, Prettier
+  - Testing: Jest
+  - Rendering: Universal (SSR / SSG)
+  - Deployment: Server (Node.js hosting)
+  - Development Tools: jsconfig.json, Dependabot
+  - Continuous Integration: Github Actions
+  - Version Control System: Git
