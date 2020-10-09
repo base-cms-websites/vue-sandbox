@@ -1,5 +1,6 @@
 {
   "name": "vue-2-vuesax-nuxt",
+  "repository": "https://github.com/vue-sandbox/vue-2-vuesax-nuxt.git",
   "version": "1.0.0",
   "private": true,
   "scripts": {
