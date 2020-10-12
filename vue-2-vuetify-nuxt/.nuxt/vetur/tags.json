@@ -4,11 +4,5 @@
   },
   "LazyLogo": {
     "description": "Auto imported from components/Logo.vue"
-  },
-  "VuetifyLogo": {
-    "description": "Auto imported from components/VuetifyLogo.vue"
-  },
-  "LazyVuetifyLogo": {
-    "description": "Auto imported from components/VuetifyLogo.vue"
   }
 }
