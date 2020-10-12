@@ -54,3 +54,17 @@ vue ui
   - Development Tools: jsconfig.json, Dependabot
   - Continuous Integration: Github Actions
   - Version Control System: Git
+
+### vue-2-vuetify-nuxt
+- Utilizes Vue2
+- Nuxt.js
+  - Language: JS
+  - UI Framework: Vuetify
+  - Modules: n/a
+  - Linting: ESLint, Prettier
+  - Testing: Jest
+  - Rendering: Universal (SSR / SSG)
+  - Deployment: Server (Node.js hosting)
+  - Development Tools: jsconfig.json, Dependabot
+  - Continuous Integration: Github Actions
+  - Version Control System: Git
