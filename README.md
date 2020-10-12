@@ -9,6 +9,13 @@ Nuxt.js is a Vue framework for scaffolding project architecture
 yarn create nuxt-app [project-name]
 ```
 
+Add the repository name to the subfolder package.json file. Ex:
+```
+"repository": "https://github.com/vue-sandbox/vue-2-vuetify-nuxt.git",
+```
+
+Note: If you receive this error when trying to commit: "does not have a commit checked out", delete the .git located within your newly created subfolder.
+
 ### Using Vue CLI
 Vue CLI is a Vue tool for creating a new project
 
