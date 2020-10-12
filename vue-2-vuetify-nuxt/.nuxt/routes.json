@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/abuselt/vue-sandbox/vue-2-vuetify-nuxt/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_459cb7ec"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/abuselt/vue-sandbox/vue-2-vuetify-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_68a14864"
+  }
+]
