@@ -20,4 +20,6 @@ $ yarn generate
 $ yarn test
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work in Nuxt, check out [Nuxt.js docs](https://nuxtjs.org).
+
+For information on the UI Framework, see [Vuesax](https://vuesax.com/).
