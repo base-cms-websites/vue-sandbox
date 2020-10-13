@@ -44,6 +44,21 @@ vue ui
 - Utilizes Vue2, Vue CLI, and custom features
   - Babel, Eslint + Prettier, router, Sass/SCSS dart-sass
 
+### vue-2-nuxt-storybook
+- Utilizes Vue2
+- Storybook
+- Nuxt.js
+  - Language: JS
+  - UI Framework: n/a
+  - Modules: n/a
+  - Linting: ESLint, Prettier
+  - Testing: Jest
+  - Rendering: Universal (SSR / SSG)
+  - Deployment: Server (Node.js hosting)
+  - Development Tools: jsconfig.json, Dependabot
+  - Continuous Integration: Github Actions
+  - Version Control System: Git
+
 ### vue-2-storybook
 - Same as vue-2 setup
 - Plus Storybook

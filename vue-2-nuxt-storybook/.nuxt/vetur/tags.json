@@ -1,0 +1,26 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Button": {
+    "description": "Auto imported from components/stories/Button.vue"
+  },
+  "LazyButton": {
+    "description": "Auto imported from components/stories/Button.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/stories/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/stories/Header.vue"
+  },
+  "Page": {
+    "description": "Auto imported from components/stories/Page.vue"
+  },
+  "LazyPage": {
+    "description": "Auto imported from components/stories/Page.vue"
+  }
+}
