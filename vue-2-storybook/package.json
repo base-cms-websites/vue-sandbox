@@ -1,5 +1,6 @@
 {
   "name": "vue-2-storybook",
+  "repository": "https://github.com/vue-sandbox/vue-2-nuxt-storybook.git",
   "version": "0.1.0",
   "private": true,
   "scripts": {
